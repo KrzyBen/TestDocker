@@ -100,7 +100,3 @@ docker compose up --build
 ├── .env
 └── env.example
 ```
-
-- El sistema se encuentra en desarrollo como MVP funcional.
-- La arquitectura está orientada a escalabilidad modular.
-- El procesamiento IA avanzado será integrado progresivamente.
